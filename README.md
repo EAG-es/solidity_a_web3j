@@ -1,5 +1,5 @@
-# solidity_a_web3j_privado
-Versión privada (evolucionada) del repositorio EAG-es/solidity_a_web3j
+# solidity_a_web3j
+Proyecto Netbeans con maven para generar archivos java wrappers (envolventes) de archivos Solidiy
 
 Depende de:
 - Modelos: https://github.com/EAG-es/modelos
